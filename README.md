@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B62F77&height=140&section=header&text=Lara&fontSize=30&fontColor=faf4d3&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0e6a&height=140&section=header&text=Lara&fontSize=30&fontColor=faf4d3&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=faf4d3&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORD+!,+my+name+is+Lara+de+Souza+Santana;I'm+16+years+old;I+from+Brazil,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
   
  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=contaLaraSSantana&show_icons=true&count_private=true&hide_border=true&title_color=faf4d3&icon_color=00bfbf&text_color=faf4d3&bg_color=B62F77" alt="Lara de Souza Santana github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contaLaraSSantana&layout=compact&hide_border=true&title_color=faf4d3&text_color=faf4d3&bg_color=b62f77" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=contaLaraSSantana&show_icons=true&count_private=true&hide_border=true&title_color=faf4d3&icon_color=00bfbf&text_color=faf4d3&bg_color=D61F65" alt="Lara de Souza Santana github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contaLaraSSantana&layout=compact&hide_border=true&title_color=faf4d3&text_color=faf4d3&bg_color=D61F65" />
 </div>
 
 <div  align="center"> 
